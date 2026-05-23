@@ -54,7 +54,40 @@
 </p>
 
 ---
+## 🚀 Recent Projects
 
+### 💼 Job Portal Website
+🔗 GitHub Repository: https://github.com/Bhargavikambam/Job-portal
+
+- Developed a job portal web application for job searching and recruitment
+- Built using frontend web technologies
+- Focused on user-friendly interface and responsive design
+- Practiced project structure, routing, and deployment concepts
+
+### 🛒 E-Mart Shopping Website
+🔗 Live Demo: https://bhargavikambam.github.io/Emart/
+
+- Developed a responsive shopping website using HTML, CSS & JavaScript
+- Designed product pages and user-friendly UI
+- Practiced frontend development and responsive layouts
+
+### 🌱 GreenBag Project
+🔗 Live Demo: https://greenbag-7anb.onrender.com/
+
+- Built a web application focused on eco-friendly shopping concepts
+- Worked on frontend design and deployment
+- Hosted the project using Render platform
+
+### 📡 Optimized Data Allocation & Combining Scheme for ICI Self-Cancellation in OFDM Systems
+- Worked on improving OFDM system performance and reducing Inter Carrier Interference (ICI)
+- Used MATLAB for simulation and BER performance analysis
+- Focused on wireless communication optimization techniques
+
+### 📶 Non-Orthogonal Multiple Access for 5G Networks
+- Studied advanced multiple access techniques for future 5G communication systems
+- Explored spectrum efficiency and user allocation concepts
+
+  
 ## 📊 GitHub Stats
 
 <p align="center">
